@@ -6861,6 +6861,9 @@ form .form-group.is-invalid:after {
   appearance: none !important;
   -webkit-appearance: none !important; }
 
+.custom-control.custom-checkbox .custom-control-label {
+  padding-left: 40px; }
+
 .custom-control.custom-checkbox .custom-control-label::before {
   top: 0;
   width: 26px;

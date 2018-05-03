@@ -467,6 +467,10 @@ form {
   }
   
   &.custom-checkbox {  
+    .custom-control-label {
+      padding-left: 40px;
+    }
+    
     .custom-control-label::before {
       top: 0;
       width: 26px;
