@@ -1,4 +1,4 @@
-# [Now UI Kit for Pingendo](https://github.com/pingendo/now-ui-kit) 
+# [Now UI Kit for Pingendo] beta (https://github.com/pingendo/now-ui-kit) 
 
 
 **[Now UI Kit - preview here](https://templates.pingendo.com/now-ui-kit/index.html)** is a responsive Bootstrap 4 kit designed by Invision and coded by Creative Tim and Pingendo. It is a beautiful cross-platform UI kit featuring over 50 elements and 3 templates.
